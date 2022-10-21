@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Madhusudhan-azure'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5D50B230F7584AAFA7CA83022382FDF5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8505A256FBDE4B9584775D581EB843D5 }}
